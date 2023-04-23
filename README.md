@@ -28,9 +28,9 @@ Dataset used from YouTube, refer: <code>[YouTube Dataset](https://drive.google.c
   
  * <a href="https://github.com/Pavan-Jadhav/Big-Billion-Day-Sales-Analysis-2022/blob/main/BBD_Sales_Analysis.ipynb"> Link to Python File </a>  
   
-## We generated different types of Charts with the help of Pivot Charts and Combined them in a Dashboard as follow:
+## We generated different types of Charts with the help of Matplotlib n Seaborn Library:
  
-  <picture><img align="center" src="https://github.com/Pavan-Jadhav/Govind-Store-Annual-Report-2022/blob/main/Govind%20Store%20Annual%20Report_Excel_Dashboard.gif" alt="Govind Store Annual Report 2023 Dashboard"/></picture>
+  <picture><img align="center" src="https://github.com/Pavan-Jadhav/Big-Billion-Day-Sales-Analysis-2022/blob/main/BBD_Sales_Analysis_2022.gif" alt="BBD_Data_Analysis 2022"/></picture>
   
 ## Project Summary:
   
